@@ -1,0 +1,108 @@
+.whole{
+	width: 1000px;
+	height: 1700px;
+	font-family: Tw Cen MT;
+	margin:0 auto;/*div居中*/
+	color: black;
+}
+.wrap{
+	width: 900px;
+	height: 100px;
+	font-size: 12px;
+	font-style:italic;
+	text-align:center;/*文字居中*/
+    font-weight:bold;
+    margin:0 auto;/*div居中*/
+    color: black;
+}
+.header{
+	width: 250px;
+	height: 100px;
+	float: left;	
+}
+.menu{
+	width: 620px;
+	height: 100px;
+	float: left; 	
+}
+.menu5{
+	width: 100px;
+	height: 100px;
+	float: right;
+	color: black;	
+}
+.menu4{
+	width: 100px;
+	height: 100px;
+	float: right;
+	color: black;	
+}
+.menu3{
+	width: 100px;
+	height: 100px;
+	float: right;
+	color: black;	
+}
+.menu2{
+	width: 100px;
+	height: 100px;
+	float: right;
+	color: black;
+}
+.menu1{
+	width: 100px;
+	height: 100px;
+	float: right;
+	color: black;	
+}
+.wrap2{
+	width: 900px;
+	height: 250px;
+	font-size: 15px;
+	font-family: Tw Cen MT;
+    margin:0 auto;/*div居中*/
+}
+.demo{
+	width: 289px;
+	height: 250px;
+	float: right;
+	color: black;
+}	
+.describe{
+	color: #58ACFA;
+	font-size: 29px;
+	width: 400px;
+
+}
+div{
+	font-size: 15.4px;
+	color: black;
+	font-weight:normal;
+}	
+.product{
+	width: 960px;
+	height: 300px;
+	margin:0 auto;/*div居中*/
+	text-align:center;/*文字居中*/
+}
+.product1{
+	width: 320px;
+	height: 300px;
+	float: left;
+	color: black;
+	font-size: 12px;
+}
+.product2{
+	width: 320px;
+	height: 300px;
+	float: left;
+	color: black;
+	font-size: 12px;
+}
+.product3{
+	width: 320px;
+	height: 300px;
+	float: left;
+	color: black;
+	font-size: 12px;
+}
